@@ -6,7 +6,7 @@ from pyb import UART,Pin, ExtInt
 from ulab import numpy as np
 
 
-Mode = 3
+Mode = 0
 
 blob_max =None
 p = 0
